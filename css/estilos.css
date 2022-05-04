@@ -1,0 +1,57 @@
+*{margin: 0;
+padding: 0;
+font-family: 'Arimo', sans-serif;
+}
+body{background-color: black;
+}
+main{background-color: white;
+display: flex;
+flex-direction: column;
+height: 100vp;
+}
+.cuadro1{background: url("../img/pilares1.jpeg");
+background-attachment: fixed;
+background-size: cover;
+padding: 25%;
+opacity: 0.70;
+}
+.h1{display: flex;
+justify-content: center;
+text-align: center;
+padding: 10px;
+color: white;
+background-color: black;
+width: 30pv;
+font-size: 25px;
+letter-spacing: 7px;
+font: bold;
+}
+.parrafo1{padding: 30px;
+text-align: center;
+}
+.cuadro2{background: url("../img/ajedrez2.jpeg");
+background-attachment: fixed;
+background-size: cover;
+padding: 15%;
+opacity: 0.70;
+}
+.h3{display: flex;
+justify-content: center;
+text-align: center;
+color: white;
+padding: 10px;
+font-size: 25px;
+letter-spacing: 7px;
+font: bold;
+}
+.parrafo2{padding: 30px;
+text-align: center;
+color: white;
+background-color: black;
+}
+.cuadro3{background: url("../img/pilares22.jpeg");
+background-attachment: fixed;
+background-size: cover;
+padding: 15%;
+opacity: 0.70;}
+
